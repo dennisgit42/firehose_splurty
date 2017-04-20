@@ -1,3 +1,16 @@
 // Place all the styles related to the quotes controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+input.form-control::-webkit-input-placeholder { /* WebKit browsers */
+  color: #CDD0D1;
+}
+input.form-control:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+  color: CDD0D1;
+}
+input.form-control::-moz-placeholder { /* Mozilla Firefox 19+ */
+  color: CDD0D1;
+}
+input.form-control:-ms-input-placeholder { /* Internet Explorer 10+ */
+  color: CDD0D1;
+}
