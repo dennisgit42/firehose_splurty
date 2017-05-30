@@ -70,7 +70,13 @@
         <div class = "col-10 offset-1 alert alert-danger">
           <%= flash[:error].html_safe %>
         </div>  
+      <% end %>  
+      <% if flash[:notice].present? %>
+        <div class = "col-10 offset-1 alert alert-success">
+          <%= flash[:notice].html_safe %>
+        </div>   
       <% end %>    
+
       <%= yield %>
     </div>
 
