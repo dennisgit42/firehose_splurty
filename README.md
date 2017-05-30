@@ -1,3 +1,3 @@
 Dennis Ouyang
 
-Pizza is awesome!
+Pizza is awesome! So is beer!
