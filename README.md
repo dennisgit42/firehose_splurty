@@ -1,3 +1,3 @@
-Dennis Ouyang
 
-Ken like pizza. -Ken
+Ken likes pepperoni pizza. -Ken
+
