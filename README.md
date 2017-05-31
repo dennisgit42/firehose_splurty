@@ -1,3 +1,3 @@
 Dennis Ouyang
 
-Dennis dislikes beer. -Ken
+Ken like pizza. -Ken
