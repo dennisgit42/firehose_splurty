@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+# installing test-unit gem for 'Learn ruby the hard way' exercise 46 describing how to set up project skeleton for vanilla ruby
+gem 'test-unit'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.0', '>= 5.0.0.1'
@@ -51,3 +53,6 @@ gem 'bootstrap', '~> 4.0.0.alpha6'
 
 # adding simple_form rails gem
 gem 'simple_form'
+
+# adding rubocop gem and running bundle install to see if that adds missing rubocop files
+gem 'rubocop'
