@@ -14,7 +14,7 @@
 !/tmp/.keep
 
 # ignore folder learn_ruby_the_hard_way
-/learn_ruby_the_hard_way/*
+/learn_ruby_the_hard_way
 
 # Ignore Byebug command history file.
 .byebug_history
